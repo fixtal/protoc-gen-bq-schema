@@ -175,7 +175,7 @@ var (
 		descriptor.FieldDescriptorProto_TYPE_FLOAT:  "FLOAT",
 
 		descriptor.FieldDescriptorProto_TYPE_INT64:    "INTEGER",
-		descriptor.FieldDescriptorProto_TYPE_UINT64:   "INTEGER",
+		descriptor.FieldDescriptorProto_TYPE_UINT64:   "NUMERIC",
 		descriptor.FieldDescriptorProto_TYPE_INT32:    "INTEGER",
 		descriptor.FieldDescriptorProto_TYPE_UINT32:   "INTEGER",
 		descriptor.FieldDescriptorProto_TYPE_FIXED64:  "INTEGER",
