@@ -187,7 +187,7 @@ var (
 
 		descriptor.FieldDescriptorProto_TYPE_STRING: "STRING",
 		descriptor.FieldDescriptorProto_TYPE_BYTES:  "BYTES",
-		descriptor.FieldDescriptorProto_TYPE_ENUM:   "STRING",
+		descriptor.FieldDescriptorProto_TYPE_ENUM:   "INTEGER",
 
 		descriptor.FieldDescriptorProto_TYPE_BOOL: "BOOLEAN",
 
